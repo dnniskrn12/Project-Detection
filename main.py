@@ -2,7 +2,7 @@
 =============================================================
   SISTEM DETEKSI MENGANTUK - SERVER FASTAPI
   Jalankan: uvicorn main:app --host 0.0.0.0 --port 8000
-  Deploy gratis: Railway.app / Render.com / Koyeb.com
+  Deploy gratis: Railway.app 
 =============================================================
 """
 
